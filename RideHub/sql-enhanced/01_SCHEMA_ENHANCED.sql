@@ -82,7 +82,7 @@ CREATE TABLE ProviderDocuments (
     INDEX idx_verification (VerificationStatus)
 ) ENGINE=InnoDB;
 
--- Vehicle Table (Enhanced with Bus support)
+-- Vehicle Table (Enhanced with Bus and Metro support)
 CREATE TABLE Vehicle (
     VehicleID INT PRIMARY KEY AUTO_INCREMENT,
     ProviderID INT NOT NULL,

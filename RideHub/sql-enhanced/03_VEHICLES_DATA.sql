@@ -2,6 +2,7 @@
 -- FILE 3: VEHICLES DATA - 45+ VEHICLES
 -- =====================================================
 -- Includes: Autos, Cabs, Bikes, Scooters, Buses
+-- For direct route uses metro
 -- =====================================================
 
 USE TransportBookingSystem;
